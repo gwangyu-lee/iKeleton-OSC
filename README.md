@@ -4,7 +4,7 @@ An application capturing body tracking data.
 ![IMG_0075_1](https://user-images.githubusercontent.com/79373845/235265119-4e16ef20-cf73-4083-b5e6-832e14a7f57c.gif)
 
 ## How to download
-Released on the Apple App Store
+Released on the Apple App Store.    
 <img width="400" alt="18_osc_7_1" src="https://user-images.githubusercontent.com/79373845/235264697-a922dc82-cc57-400a-9458-11e1d319cc41.PNG">
 
 ## How to use    
