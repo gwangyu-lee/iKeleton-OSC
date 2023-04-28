@@ -1,5 +1,8 @@
 # iKeleton-OSC
 An application capturing body tracking data.    
+Reased on Apple App Store
+
+<img width="400" alt="18_osc_7_1" src="https://user-images.githubusercontent.com/79373845/235264697-a922dc82-cc57-400a-9458-11e1d319cc41.PNG">
 
 ## How to use    
 Open iKeleton OSC.    
