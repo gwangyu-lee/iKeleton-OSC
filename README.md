@@ -8,6 +8,9 @@ An application capturing body tracking data.
 <a href="https://www.gwangyulee.com/p/ikeleton-osc-tutorial-jpn.html" target="_blank">iKeleton OSC チュートリアル</a>    
 <a href="https://www.gwangyulee.com/p/ikeleton-osc-tutorial-kor.html" target="_blank">iKeleton OSC 튜토리얼</a>    
 
+<a href="https://www.gwangyulee.com/p/ikeleton-osc-max-for-live.html" target="_blank">iKeleton OSC & Max For Live</a>    
+
+
 ## How to download
 Released on the Apple App Store.    
 <img width="400" alt="18_osc_7_1" src="https://user-images.githubusercontent.com/79373845/235264697-a922dc82-cc57-400a-9458-11e1d319cc41.PNG">
