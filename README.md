@@ -13,7 +13,7 @@ An application capturing body tracking data.
 
 ## How to download
 Released on the Apple App Store.    
-<img width="400" alt="18_osc_7_1" src="https://user-images.githubusercontent.com/79373845/235264697-a922dc82-cc57-400a-9458-11e1d319cc41.PNG">
+<img width="400" alt="18_osc_7_1" src="https://github.com/gwangyu-lee/iKeleton-OSC/assets/79373845/048d0680-cf4b-45f4-8b2d-d0c54c194777">
 
 ## How to use    
 Open iKeleton OSC.    
@@ -21,7 +21,7 @@ Go to Settings.
 Set the IP Address and port.    
 <img width="400" alt="18_osc_7_1" src="https://user-images.githubusercontent.com/79373845/233688867-f1f9c87a-f778-42c2-a85a-a2ceb8d4fa8c.PNG">
 
-## How to find an IP Adress    
+## How to find an IP Address    
 ### On Mac OS    
 Opt + Left Click the Wi-Fi status icon.    
 <img width="400" alt="18_osc_7_1" src="https://user-images.githubusercontent.com/79373845/233689027-588c6a88-bda2-42af-9b21-21c81897f189.png">
